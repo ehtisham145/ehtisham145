@@ -74,24 +74,15 @@ The official companion mobile app for E-Numerak — invoice creation, product ca
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehtisham145&show_icons=true&theme=tokyonight&hide_border=true" alt="Ehtisham's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehtisham145&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ehtisham-iftikhar-4b6b86309/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzgG54EEKQQ%2B2SxdOX6ndOA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://e-numerak.com/"><img src="https://img.shields.io/badge/E--Numerak-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ehtisham2406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ Star some repos if you find them useful.</i></p>
