@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ehtisham Iftikhar 👋</h1>
+<h1 align="center">Hi there, I'm Ehtisham Iftikhar </h1>
 <h3 align="center">AI Engineer & Full-Stack Developer — turning ideas into production-grade software</h3>
 
 <p align="center">
