@@ -20,6 +20,20 @@ I'm a full-stack developer with strong AI/ML foundations — I don't just protot
 
 ---
 
+### 🚀 My Approach
+
+🤖 Agentic AI Architect: I design and ship Digital FTE systems — autonomous AI workers that execute complex, multi-step business workflows without human intervention. Using Claude API, MCP (Model Context Protocol), custom plugins and hooks, I build agents that don't just respond — they act.
+
+🧠 Generative AI Engineer: From Transformer fine-tuning and NLP pipelines to GANs and VAEs, I've gone deep into the theory and the practice. I translate cutting-edge AI research into real, working systems — not just notebooks.
+
+🌐 Full-Stack Developer: Proficient in Python, TypeScript, JavaScript, React.js, Node.js, Express.js, and MongoDB — I build scalable, production-ready web applications end-to-end, with clean APIs, responsive UIs, and zero-downtime deployments on Vercel.
+
+📊 Data-Driven Mindset: Whether it's sentiment analysis with NLP, ML pipelines with scikit-learn, or data wrangling with NumPy and Pandas — I let the data drive the decisions.
+
+🎯 Relentless Learner: I study AI research papers, stay current with every Claude, OpenAI, and LangChain release, and build things in public. I'm not chasing trends — I'm building at the frontier.
+
+I believe the best software is built through curiosity, collaboration, and a commitment to quality. I'm always open to new challenges, new ideas, and new people to build with. If you're working on something that matters — let's talk.
+
 ### 🛠️ Tech Stack
 
 **Languages & Core**
