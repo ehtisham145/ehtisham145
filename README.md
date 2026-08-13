@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a full-stack developer with strong AI/ML foundations — I don't just prototype, I ship **production-level software** that real businesses use.
 
@@ -20,7 +20,7 @@ I'm a full-stack developer with strong AI/ML foundations — I don't just protot
 
 ---
 ---
-### 🚀 My Approach
+###  My Approach
 
 🤖 Agentic AI Architect: I design and ship Digital FTE systems — autonomous AI workers that execute complex, multi-step business workflows without human intervention. Using Claude API, MCP (Model Context Protocol), custom plugins and hooks, I build agents that don't just respond — they act.
 
