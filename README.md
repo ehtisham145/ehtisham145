@@ -85,7 +85,8 @@ An end-to-end conversational AI assistant embedded directly into the platform, b
 ####  E-Numerak Mobile App
 The official companion mobile app for E-Numerak — invoice creation, product catalog, customer/company management, and compliance workflows, all on mobile.
 **Built solo, end-to-end**, using AI-assisted development (React Native + Expo) — from UI to API integration to build & release pipeline.
-🔗 [Download the app build](https://expo.dev/accounts/ehtisham787/projects/enumerak-app/builds)
+🔗 
+[Download the app build](https://expo.dev/accounts/ehtisham787/projects/enumerak-app/builds)
 
 ---
 
