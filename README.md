@@ -90,8 +90,13 @@ The official companion mobile app for E-Numerak — invoice creation, product ca
 
 ---
 
+### Certifications
 
----
+    1) Machine Learning Specilization by Andrew Nj
+    2) Deep Learning Specilization by Andrew nj
+    3) Python For Data Science and API Development by IBM
+    4) Prompt Engineering from Vanderbilt University
+    5) Rest APIs Development by IBM
 
 ###  Connect With Me
 
