@@ -78,7 +78,7 @@ I believe the best software is built through curiosity, collaboration, and a com
 A live, production SaaS platform helping UAE businesses generate FTA-compliant tax invoices, credit/debit notes, and manage their VAT workflow end-to-end.
 **My contribution:** working developer on the core web platform alongside the senior dev team — building and shipping real features used by live customers.
 
-#### 🤖 AI Tax Chatbot (integrated within E-Numerak)
+#### AI Tax Chatbot (integrated within E-Numerak)
 An end-to-end conversational AI assistant embedded directly into the platform, built to answer real user queries around invoicing, VAT rules, and compliance — reducing support load and helping users self-serve.
 **Built independently** — from architecture to integration into the production app.
 
@@ -106,4 +106,4 @@ The official companion mobile app for E-Numerak — invoice creation, product ca
   <a href="mailto:ehtisham2406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ Star some repos if you find them useful.</i></p>
+<p align="center"><i>Thanks for visiting my profile!  Star some repos if you find them useful.</i></p>
