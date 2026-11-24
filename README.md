@@ -35,7 +35,7 @@ Nov 2024 – Present · On-site, Lahore
 - Support research operations for new products and AI features
 
 #### Full Stack Developer (Freelance) · LessonLab
-<!-- July 2026 --> – Present · Remote
+ July 2026  – Present · Remote
 
 - Building **LessonLab** end to end for a client: a multi-tenant school management SaaS for private schools in Saudi Arabia
 - Backend with Django, DRF, PostgreSQL and Celery; frontend with Next.js and TypeScript, in Arabic and English (RTL)
