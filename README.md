@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/ehtisham145">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+DevOps;I+build%2C+test+and+deploy+production+software;From+localhost+to+live+servers alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+DevOps;I+build%2C+test+and+deploy+production+software;From+localhost+to+live+servers+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 ### About Me
