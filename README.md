@@ -18,6 +18,8 @@ I work across the whole product lifecycle: designing backend systems, building c
 interfaces, integrating AI where it adds real value, and deploying applications to production.
 I care about reliability, so I test, load-test and automate what I ship.
 
+On the development side, I have hands-on experience building foundational Generative AI features, such as Retrieval-Augmented Generation (RAG) pipelines, automated web scraping scripts, and working with vector databases. Alongside AI, I focus heavily on backend web development, creating steady server architectures, handling system integrations, and building administrative dashboards to track user metrics. To expand my skill set, I am currently exploring and studying autonomous AI Agent workflows to learn how to build more independent systems.
+
 ---
 
 ### Experience
