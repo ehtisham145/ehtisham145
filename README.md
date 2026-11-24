@@ -45,7 +45,7 @@ July 2026 – Present · Remote
 
 ### Featured Projects
 
-#### 🏫 LessonLab: School Management SaaS
+#### LessonLab: School Management SaaS
 > A multi-tenant platform that runs the daily operations of private schools in Saudi Arabia, in Arabic and English.
 
 - **Problem:** Schools juggle attendance, classes, staff and lesson planning across scattered tools.
@@ -68,7 +68,7 @@ July 2026 – Present · Remote
 
 ---
 
-#### 🏥 Zero-Trust Clinical EHR Assistant
+#### Zero-Trust Clinical EHR Assistant
 > A privacy-first RAG system that lets clinicians query Electronic Health Records in plain language, without exposing patient data to the LLM.
 
 - **Problem:** Clinical records are hard to search, and sending patient data to an external LLM is a serious privacy risk.
@@ -90,7 +90,7 @@ July 2026 – Present · Remote
 
 ---
 
-#### 🧾 E-Numerak: UAE E-Invoicing & VAT Compliance
+#### E-Numerak: UAE E-Invoicing & VAT Compliance
 > A live SaaS platform that helps UAE businesses issue FTA-compliant invoices and credit/debit notes, and manage their VAT.
 
 - **Problem:** UAE businesses need tax-compliant invoicing without manual errors.
@@ -101,7 +101,7 @@ July 2026 – Present · Remote
 
 ---
 
-#### 🛡️ AML: Anti-Money Laundering & KYC
+#### AML: Anti-Money Laundering & KYC
 > A compliance platform that screens customers and verifies their identity.
 
 - **Problem:** Manual identity checks are slow and easy to get wrong.
