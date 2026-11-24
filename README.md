@@ -168,7 +168,7 @@ Also: computer networking, CI/CD pipelines, API and load testing, production dep
 
 ---
 
-### 🎓 Certifications
+### Certifications
 
 | Certification | Issued by | Credential |
 |---|---|---|
