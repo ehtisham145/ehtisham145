@@ -61,7 +61,7 @@ A live SaaS platform that helps UAE businesses create FTA-compliant tax invoices
 A conversational AI assistant inside the platform that answers user questions about invoicing, VAT and compliance, which reduces support load.
 - **What I did:** Built it on my own, from architecture to integration in production.
 
-#### 🛡️ AML: Anti-Money Laundering & KYC
+#### AML: Anti-Money Laundering & KYC
 > A compliance platform that screens customers and verifies their identity.
 
 - **Problem:** Manual identity checks are slow and easy to get wrong.
@@ -123,15 +123,14 @@ Also: computer networking, CI/CD pipelines, API and load testing, production dep
 
 ---
 
-### 🎓 Certifications
+###  Certifications
 
 | Certification | Issued by | Credential |
 |---|---|---|
-| Machine Learning Specialization | DeepLearning.AI & Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/4JAMLLD011WC) |
-| Deep Learning Specialization | DeepLearning.AI | [Verify](#) |
-| Python for Data Science and API Development | IBM | [Verify](#) |
-| Prompt Engineering | Vanderbilt University | [Verify](#) |
-| REST API Development | IBM | [Verify](#) |
+| Machine Learning Specialization | DeepLearning.AI & Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/LNP12BKSA9OU) |
+| Deep Learning Specialization | DeepLearning.AI | [Verify](#https://www.coursera.org/account/accomplishments/verify/4JAMLLD011WC) |
+| Prompt Engineering | Vanderbilt University | [Verify](https://www.coursera.org/account/accomplishments/verify/5CHHDGXN05AQ) |
+| REST API Development | IBM | [Verify](https://www.coursera.org/account/accomplishments/verify/ROIJ11ITA75H) |
 
 ---
 
