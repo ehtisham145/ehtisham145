@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ehtisham145">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+DevOps;I+build%2C+test+and+deploy+production+software;From+localhost+to+live+servers+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Full-Stack+Developer+%7C+DevOps;I+build%2C+test+and+deploy+production+software;From+localhost+to+live+servers alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,6 +18,30 @@ interfaces, integrating AI where it adds real value, and deploying applications 
 I care about reliability, so I test, load-test and automate what I ship.
 
 ---
+### Experience
+
+#### Full Stack Developer · AI Merak Tax Consultant LLC
+Nov 2024 – Present · On-site, Lahore
+*Joined as an intern and was promoted to Full Stack Developer.*
+
+- **E-Numerak:** build and ship features for a live UAE e-invoicing and VAT compliance platform
+- **AI Tax Chatbot:** designed and built a conversational assistant inside E-Numerak that answers user questions on invoicing and VAT
+- **Qommunix:** built the company's internal CRM, a custom portal on the WhatsApp Business API that gives managers visibility into employee–client conversations
+- **AML:** integrated the Didit API into an Anti-Money Laundering platform for live KYC identity verification
+- Deploy applications from local development to production, end to end
+- Set up CI/CD pipelines, Docker containers and Linux servers
+- Load-test APIs with Grafana k6 for performance and reliability
+- Support research operations for new products and AI features
+
+#### Full Stack Developer (Freelance) · LessonLab
+<!-- July 2026 --> – Present · Remote
+
+- Building **LessonLab** end to end for a client: a multi-tenant school management SaaS for private schools in Saudi Arabia
+- Backend with Django, DRF, PostgreSQL and Celery; frontend with Next.js and TypeScript, in Arabic and English (RTL)
+- Built AI lesson-plan generation, role-based access, and a teacher app with trial and paid plans
+- Set up the CI/CD pipeline and production deployment
+
+---
 
 ### Featured Projects
 
@@ -25,7 +49,7 @@ I care about reliability, so I test, load-test and automate what I ship.
 A multi-tenant school management platform for private schools in Saudi Arabia, with Arabic and English (RTL) support.
 - **Stack:** Django, Django REST Framework, Next.js, TypeScript, PostgreSQL, Celery, Docker, GitHub Actions
 - **What I did:** Backend and frontend development, multi-tenant data isolation, role-based access, AI lesson-plan generation, a teacher app with trial and plans, CI/CD pipeline and production deployment.
-- 🔗 [Live / Demo](#)
+- 🔗 [lessonlab.me](https://staging.lessonlab.me/)
 
 #### E-Numerak: UAE E-Invoicing & Tax Compliance Platform
 A live SaaS platform that helps UAE businesses create FTA-compliant tax invoices and credit/debit notes, and manage VAT.
@@ -36,12 +60,13 @@ A live SaaS platform that helps UAE businesses create FTA-compliant tax invoices
 A conversational AI assistant inside the platform that answers user questions about invoicing, VAT and compliance, which reduces support load.
 - **What I did:** Built it on my own, from architecture to integration in production.
 
-#### AML
-<!-- One line: what AML does and who it is for -->
-- **Stack:** <!-- add stack -->
-- **What I did:** <!-- add your role -->, plus deployment to production end to end.
-- 🔗 [Link](#)
+#### 🛡️ AML: Anti-Money Laundering & KYC
+> A compliance platform that screens customers and verifies their identity.
 
+- **Problem:** Manual identity checks are slow and easy to get wrong.
+- **Solution:** Live KYC verification through the Didit API, built into the AML workflow.
+- **Role:** Didit API integration and end-to-end production deployment.
+- 🔗 [e-amli.com](https://e-amli.com/)
 ---
 
 ### Tech Stack
