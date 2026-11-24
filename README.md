@@ -128,7 +128,7 @@ Also: computer networking, CI/CD pipelines, API and load testing, production dep
 | Certification | Issued by | Credential |
 |---|---|---|
 | Machine Learning Specialization | DeepLearning.AI & Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/LNP12BKSA9OU) |
-| Deep Learning Specialization | DeepLearning.AI | [Verify](#https://www.coursera.org/account/accomplishments/verify/4JAMLLD011WC) |
+| Deep Learning Specialization | DeepLearning.AI | [Verify](https://www.coursera.org/account/accomplishments/verify/4JAMLLD011WC) |
 | Prompt Engineering | Vanderbilt University | [Verify](https://www.coursera.org/account/accomplishments/verify/5CHHDGXN05AQ) |
 | REST API Development | IBM | [Verify](https://www.coursera.org/account/accomplishments/verify/ROIJ11ITA75H) |
 
