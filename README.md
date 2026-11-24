@@ -121,13 +121,20 @@ Also: computer networking, CI/CD pipelines, API and load testing, production dep
 
 ---
 
-### Certifications
+---
 
-- [Machine Learning Specialization: Andrew Ng (DeepLearning.AI)](#)
-- [Deep Learning Specialization: Andrew Ng (DeepLearning.AI)](#)
-- [Python for Data Science and API Development: IBM](#)
-- [Prompt Engineering: Vanderbilt University](#)
-- [REST API Development: IBM](#)
+### 🎓 Certifications
+
+| Certification | Issued by | Credential |
+|---|---|---|
+| Machine Learning Specialization | DeepLearning.AI & Stanford University | [Verify](https://www.coursera.org/account/accomplishments/verify/4JAMLLD011WC) |
+| Deep Learning Specialization | DeepLearning.AI | [Verify](#) |
+| Python for Data Science and API Development | IBM | [Verify](#) |
+| Prompt Engineering | Vanderbilt University | [Verify](#) |
+| REST API Development | IBM | [Verify](#) |
+
+---
+
 
 ---
 
