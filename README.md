@@ -23,7 +23,7 @@ I care about reliability, so I test, load-test and automate what I ship.
 
 #### Full Stack Developer · AI Merak Tax Consultant LLC
 Nov 2024 – Present · On-site, Lahore
-*Joined as an intern and was promoted to Full Stack Developer.*
+*Full Stack Developer.*
 
 - **E-Numerak:** build and ship features for a live UAE e-invoicing and VAT compliance platform
 - **AI Tax Chatbot:** designed and built a conversational assistant inside E-Numerak that answers user questions on invoicing and VAT
