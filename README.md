@@ -6,12 +6,13 @@
 
 ### About Me
 
-- Full-stack developer with a strong AI/ML background. I ship software that real businesses use.
-- Took **E-Numerak**, **LessonLab** and **AML** from local development to production, end to end, on my own.
-- Built CI/CD pipelines, containerised apps with Docker, and run them on Linux servers.
-- Test APIs for performance and reliability with load testing in Grafana k6.
-- Currently going deeper into **RAG pipelines** and **AI agents**.
-- Open to freelance work, collaboration and full-time roles.
+I'm Ehtisham Iftikhar, a full-stack developer and AI engineer based in Lahore, Pakistan.
+I'm currently pursuing a BS in Data Science at Virtual University of Pakistan, while building
+and shipping production software for real clients.
+
+I work across the whole product lifecycle: designing backend systems, building clean user
+interfaces, integrating AI where it adds real value, and deploying applications to production.
+I care about reliability, so I test, load-test and automate what I ship.
 
 ---
 
